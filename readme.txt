@@ -1,0 +1,1 @@
+Hi readme before entering my repo!
